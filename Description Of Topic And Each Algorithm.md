@@ -1,5 +1,15 @@
 # Collaboration Networks MST Project
 
+##  Description of the Project
+This project explores **Collaboration Networks** by implementing and comparing five MST-style algorithms — Kruskal, Prim, Borůvka, Reverse-Delete, and Karger — across datasets of varying sizes (small, medium, large, and extremely large). The goal is to understand and visualize how these algorithms operate within realistic collaborative settings, measure their performance, and capture the evolution of MST construction.
+
+Through this project, we:
+- Parse collaboration network files (`.mtx`, `.txt`, `.edges`), build graphs using NetworkX, and apply MST-style algorithms.
+- Record MST construction step‑by‑step and save results.
+- Compare execution times and MST costs across different dataset sizes.
+- Visualize the results with animations and charts for deeper insights.
+
+---
 ##  Description of Our Network Category + Real-World Applications
 
 ### Selected Category: Network Repository Collaboration Networks
